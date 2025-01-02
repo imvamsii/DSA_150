@@ -28,17 +28,17 @@ class Solution {
     }
 }
 
-Start from the last 
-find the character at that position 
-get the integer value for that roman using switch case
-now compare the current value of int with prev
-if current > prev then add
-if not subtract
+//Start from the last 
+//find the character at that position 
+//get the integer value for that roman using switch case
+//now compare the current value of int with prev
+//if current > prev then add
+//if not subtract
 
+//LVIII   58
+//50 5 1 1 1
 
+//MCMXCIV   1994
+//1000 100 1000 10 100 1 5
 
-LVIII   58
-50 5 1 1 1
-
-MCMXCIV   1994
-1000 100 1000 10 100 1 5
+//tc = O(n), sc = O(1)
